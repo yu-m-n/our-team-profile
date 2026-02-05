@@ -1,2 +1,2 @@
 # our-team-profile
-project
+My name is Yumin.
